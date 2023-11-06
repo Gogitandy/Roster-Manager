@@ -1,0 +1,15 @@
+name: Rachael Adams attack stat: 3.36 block stat: 1.93
+name: Foluke Akinradewo attack stat: 4.81 block stat: 1.14
+name: Kayla Banwarth attack stat: 2.98 block stat: 0.5
+name: Michelle Bartsch attack stat: 0.28 block stat: 1.42
+name: Krista Vansant attack stat: 2.78 block stat: 0.86
+name: Courtney Thompson attack stat: 0.59 block stat: 0.93
+name: Kelly Murphy attack stat: 1.15 block stat: 0.58
+name: Lauren Gibbemeyer attack stat: 2.25 block stat: 0.5
+name: Alexis Crimes attack stat: 3.89 block stat: 1.34
+name: Tori Dixon attack stat: 0.92 block stat: 1.62
+name: Nicole Fawcett attack stat: 4.01 block stat: 0.61
+name: Alisha Glass attack stat: 1.96 block stat: 1.55
+name: Natalie Hagglund attack stat: 2.49 block stat: 0.52
+name: Kim Hill attack stat: 1.53 block stat: 1.76
+name: Cursty Jackson attack stat: 0.69 block stat: 1.44
